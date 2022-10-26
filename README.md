@@ -1,6 +1,11 @@
-### 전원근, Won Geun Jeon 👋
+### <h2> 전원근, Won Geun Jeon 🙉 </h2>
 
-Front-End Developer
+<b><h2>🥳 Personal info</h2></b>
+
+<pre style="background-color:transparent;">
+💞️ Passionate about UX design, front-end development and IOS Development
+📩 you can reach me 👉 jwg7632@gmail.com
+</pre>
 
 <a href="https://veryguht.tistory.com/">블로그</a>
 
