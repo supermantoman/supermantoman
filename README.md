@@ -7,8 +7,6 @@
 📩 you can reach me 👉 jwg7632@gmail.com
 </pre>
 
-<a href="https://veryguht.tistory.com/">블로그</a>
-
 <b><h2>🛠 Skills</h2></b>
 
 <b>Front-End:</b>
@@ -32,6 +30,7 @@
 ![image](https://user-images.githubusercontent.com/116064230/197933670-a2f265c5-7c85-4898-aa2a-f5e6b6c9337e.png)
 
 <b><h2>🛠 My Blog</h2></b>
+<a href="https://veryguht.tistory.com/">블로그</a>
 
 <b><h2>🛠 My Portfolio Website</h2></b>
 
