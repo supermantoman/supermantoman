@@ -11,11 +11,22 @@
 
 <b><h2>🛠 Skills</h2></b>
 
-![image](https://user-images.githubusercontent.com/116064230/197926313-692ae0ca-59d0-4bce-a194-431a1681e3bd.png)
-![image](https://user-images.githubusercontent.com/116064230/197926358-7221ff61-542e-4403-8bd3-6f15b3774792.png)
-![image](https://user-images.githubusercontent.com/116064230/197926376-57369228-de66-4c16-b60d-3e304b8e572b.png)
-![image](https://user-images.githubusercontent.com/116064230/197926393-db838d7e-a035-4889-a8f0-dd2ada004e38.png)
-![image](https://user-images.githubusercontent.com/116064230/197926409-310f535c-6480-4bd1-8264-eba2ea293d3c.png)
+
+<b>Front-End:</b>
+![image](https://user-images.githubusercontent.com/116064230/197933815-99b136c6-945e-4348-aa05-14b7c5ffe6b6.png)
+![image](https://user-images.githubusercontent.com/116064230/197933826-f1537a9a-bf0b-4f7b-9f5a-2fb796acbddb.png)
+![image](https://user-images.githubusercontent.com/116064230/197933834-6cbbf257-1160-4bef-80c7-016621bae861.png)
+![image](https://user-images.githubusercontent.com/116064230/197934001-8e8dc562-efda-45d4-b7d3-95f0cb674208.png)
+![image](https://user-images.githubusercontent.com/116064230/197933849-5c522405-c7bb-4d54-b246-0e0746ddd212.png)
+
+<b>Mobile:</b>
+![image](https://user-images.githubusercontent.com/116064230/197933876-e018a162-88f7-40df-8deb-16cdd485e185.png)
+
+<b>Communication:</b>
+![image](https://user-images.githubusercontent.com/116064230/197933556-075d8726-f3dd-4b1b-889a-90f5b216ad1a.png)
+![image](https://user-images.githubusercontent.com/116064230/197933608-ba71d011-2f93-4a37-9afb-3856b78a4257.png)
+![image](https://user-images.githubusercontent.com/116064230/197933644-f3f813ae-9008-454d-be58-58d23c412fb2.png)
+![image](https://user-images.githubusercontent.com/116064230/197933670-a2f265c5-7c85-4898-aa2a-f5e6b6c9337e.png)
 
 <!--
 **supermantoman/supermantoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
