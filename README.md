@@ -29,10 +29,10 @@
 ![image](https://user-images.githubusercontent.com/116064230/197933644-f3f813ae-9008-454d-be58-58d23c412fb2.png)
 ![image](https://user-images.githubusercontent.com/116064230/197933670-a2f265c5-7c85-4898-aa2a-f5e6b6c9337e.png)
 
-<b><h2>🛠 My Blog</h2></b>
+<b><h2>💎 My Blog</h2></b>
 <a href="https://veryguht.tistory.com/">블로그</a>
 
-<b><h2>🛠 My Portfolio Website</h2></b>
+<b><h2>✈️ My Portfolio Website</h2></b>
 
 <!--
 **supermantoman/supermantoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
