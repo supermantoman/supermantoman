@@ -1,6 +1,6 @@
 ### 전원근, Won Geun Jeon 👋
 
-<b>UX Desinger to Front-End Developer</b>
+<b>Front-End Developer</b>
 
 <a href="https://veryguht.tistory.com/">블로그</a>
 
@@ -11,7 +11,6 @@
 ![image](https://user-images.githubusercontent.com/116064230/197926376-57369228-de66-4c16-b60d-3e304b8e572b.png)
 ![image](https://user-images.githubusercontent.com/116064230/197926393-db838d7e-a035-4889-a8f0-dd2ada004e38.png)
 ![image](https://user-images.githubusercontent.com/116064230/197926409-310f535c-6480-4bd1-8264-eba2ea293d3c.png)
-
 
 <!--
 **supermantoman/supermantoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
