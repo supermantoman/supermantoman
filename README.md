@@ -1,6 +1,6 @@
 ### 전원근, Won Geun Jeon 👋
 
-<b>Front-End Developer</b>
+Front-End Developer
 
 <a href="https://veryguht.tistory.com/">블로그</a>
 
