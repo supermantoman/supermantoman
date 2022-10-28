@@ -26,7 +26,6 @@
 <b>Communication:</b>
 ![image](https://user-images.githubusercontent.com/116064230/197933556-075d8726-f3dd-4b1b-889a-90f5b216ad1a.png)
 ![image](https://user-images.githubusercontent.com/116064230/197933608-ba71d011-2f93-4a37-9afb-3856b78a4257.png)
-![image](https://user-images.githubusercontent.com/116064230/197933644-f3f813ae-9008-454d-be58-58d23c412fb2.png)
 ![image](https://user-images.githubusercontent.com/116064230/197933670-a2f265c5-7c85-4898-aa2a-f5e6b6c9337e.png)
 
 <b><h2>💎 My Blog</h2></b>
