@@ -1,4 +1,4 @@
-### <h2> 전원근, Won Geun Jeon 🙉 </h2>
+### <h2> WELCOME TO MY GITHUB 🙉 </h2>
 
 <b><h2>🥳 Personal info</h2></b>
 
